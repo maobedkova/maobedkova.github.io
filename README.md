@@ -1,4 +1,4 @@
-# Maria Obedkova | NLP Engineer
+# Maria Obedkova | NLP Engineer 👩‍💻
 
 NLP Engineer with expertise in ML and DL and experience working in the industry applying NLP methods to real-world problems.
 
