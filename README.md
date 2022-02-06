@@ -2,7 +2,7 @@
 
 NLP Engineer with expertise in ML and DL and experience working in the industry applying NLP methods to real-world problems.
 
-## Experience
+## 👔 Experience
 
 ### NLP Engineer at **[TrustYou](https://www.trustyou.com/)** *(Apr 2020 - present | remote and Munich, Germany)*
 
@@ -39,7 +39,7 @@ NLP Engineer with expertise in ML and DL and experience working in the industry 
 *Syntax - Tokenisation & Splitting - Python - Perl - regexp*
 * Developed an advanced tokenizer for Russian corpora in the [Geekrya project](http://www.webcorpora.ru/)
 
-## Education
+## 🎓 Education
 
 ### MA Computational Linguistics *(2017 – 2019)*
 
@@ -54,7 +54,7 @@ Erasmus Mundus Joint Degree with Erasmus Mundus Scholarship Award:
   * Increased State Academic Scholarship for Academic Achievements by NRU HSE *(2016, 2017)*
   * Student Research Paper Competition by NRU HSE - laureate certificate *(2016)*
 
-## Projects
+## 📚 Projects
 
 ### Open-Source Projects *(2021-2022)*
 * **HuggingFace Robust Speech Challenge**: Developed a Speech Recognition model for Russian and open-sourced it on the [HuggingFace hub](https://huggingface.co/models?other=robust-speech-event). *Took part in Feb 2022*
@@ -68,7 +68,7 @@ Erasmus Mundus Joint Degree with Erasmus Mundus Scholarship Award:
 approach. *Presented at the "ConCort" conference on Digital Humanities in 2016*
 * **Automatic Authorship Attribution**: Investigated different approaches of authorship determination and their statistical evaluation. *Presented at the "Digital Humanities" conference in Tartu in 2015*
 
-## Skills
+## 💻 Skills
 
 ### General Expertise & Tools
 * Python Programming
@@ -95,7 +95,7 @@ In different times, I worked with:
 
 *nltk - spacy - corenlp - huggingface libraries - word2vec - wav2vec - Kaldi*
 
-## Additional Information
+## ℹ️ Additional Information
 
 ### Professional Activities
 * [NLP and ASR-related blogging on Medium](https://medium.com/@maobedkova)
