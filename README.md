@@ -4,15 +4,23 @@ NLP Engineer with expertise in ML and DL and experience working in the industry 
 
 ## 👔 Experience
 
-### NLP Engineer at **[TrustYou](https://www.trustyou.com/)** *(Apr 2020 - present | remote and Munich, Germany)*
+### Senior NLP Engineer at **[TrustYou](https://www.trustyou.com/)** *(Sep 2022 - present | remote and Munich, Germany)*
+
+*Opinion Mining - ABSA - transformers - pytorch - API - CFG - CI/CD - MLOps - ML system design*
+
+* Improving a Transformer-based solution for ABSA and scaling it up
+* Exploring approaches for multilingual ABSA
+* Defining system designs for ML and DL applications
+
+### NLP Engineer at **[TrustYou](https://www.trustyou.com/)** *(Apr 2020 - Aug 2022 | remote and Munich, Germany)*
 
 *Opinion Mining - ABSA - transformers - pytorch - API - CFG - CI/CD*
 
-* Developing a Transformer-based solution for ABSA and putting it in production
-* Researching different approaches to ABSA and performing various Data Analysis tasks
-* Supporting and maintaining the legacy system that performs Sentiment Analysis with the help of CFG
+* Developed a Transformer-based solution for ABSA and put it in production
+* Researed different approaches to ABSA and performed various Data Analysis tasks
+* Supported and maintained the legacy system that performs Sentiment Analysis with the help of CFG
 
-### ASR Research Intern at **Sony's European Technology Center** *(Feb 2019 - Jul 2019 | Stuttgart, Germany)*
+### ASR Research Intern at **[Sony's European Technology Center](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/)** *(Feb 2019 - Jul 2019 | Stuttgart, Germany)*
 
 *ASR - AWE - DL - Python - tensorflow - Java - Kaldi*
 
@@ -20,7 +28,7 @@ NLP Engineer with expertise in ML and DL and experience working in the industry 
 * Investigated Acoustic Word Embeddings and improved their quality for a pronunciation discrimination task
 * Developed a completely new data-driven method of pronunciation generation for ASR purposes
 
-### NLP Engineer at **Fact Read** *(Oct 2016 - Dec 2018, remote)* 
+### NLP Engineer at **Fact Read** *(Oct 2016 - Dec 2018 | remote)* 
 
 *Fact Extraction - Coreference Resolution - WSD - ML - Python - scikit-learn*
 
@@ -34,7 +42,7 @@ NLP Engineer with expertise in ML and DL and experience working in the industry 
 * Developed various solutions for Fact Extraction using ABBYY tools
 * Implemented unit testing for the Fact Extraction system
 
-### Computational Linguistics Intern at **ABBYY Labs** *(Jan 2016 - Jun 2016 | Moscow, Russia)*
+### Computational Linguistics Intern at **[ABBYY Labs](https://www.abbyy.com/flexicapture-sdk/)** *(Jan 2016 - Jun 2016 | Moscow, Russia)*
 
 *Syntax - Tokenisation & Splitting - Python - Perl - regexp*
 * Developed an advanced tokenizer for Russian corpora in the [Geekrya project](http://www.webcorpora.ru/)
@@ -43,7 +51,7 @@ NLP Engineer with expertise in ML and DL and experience working in the industry 
 
 ### MA Computational Linguistics *(2017 – 2019)*
 
-Erasmus Mundus Joint Degree with Erasmus Mundus Scholarship Award:
+[Erasmus Mundus Joint Degree](https://lct-master.org/) with Erasmus Mundus Scholarship Award:
 * **Charles University - CUNI** *(Prague, Czech Republic)*
 * **University of Basque Country - UPV/EHU** *(San Sebastian, Spain)*
 
@@ -78,10 +86,13 @@ approach. *Presented at the "ConCort" conference on Digital Humanities in 2016*
 * CI/CD
 * Databases
 
-*linux - bash - git - PostgreSQL - AWS - Grafana - pandas - numpy - matplotlib - scikit-learn - tensorflow - pytorch*
+*linux - bash - git - PostgreSQL - AWS - Grafana - pandas - numpy - matplotlib - scikit-learn - tensorflow - pytorch - pyspark - SparkNLP*
 
 ### NLP Expertise & Tools
 In different times, I worked with:
+* Sentiment Analysis
+* Statistical and Neural Machine Translation
+* Automated Speech Recognition
 * Part-of-Speech Tagging and Parsing
 * Word Sense Disambiguation
 * Coreference Resolution
@@ -89,18 +100,22 @@ In different times, I worked with:
 * Information Retrieval
 * Named Entity Recognition
 * Fact Extraction
-* Sentiment Analysis
-* Statistical and Neural Machine Translation
-* Automated Speech Recognition
+using transformer-based, statistical and rule-based approaches.
 
-*nltk - spacy - corenlp - huggingface libraries - word2vec - wav2vec - Kaldi*
+*nltk - spacy - corenlp - huggingface libraries - word2vec - wav2vec2 - Kaldi*
 
 ## ℹ️ Additional Information
 
 ### Professional Activities
 * [NLP and ASR-related blogging on Medium](https://medium.com/@maobedkova)
+  * [Cross-Lingual Transfer for ABSA](https://medium.com/trustyou-engineering/cross-lingual-transfer-for-absa-6e9ae08a428a)
+  * [Data Augmentation for ABSA](https://medium.com/trustyou-engineering/data-augmentation-for-absa-bb61540673e3)
+  * [Topic Modelling with PySPark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e)
+  * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519)
 * Thesis students supervision at TrustYou
-* Facilitating and managing the NLP reading group at TrustYou
+  * Multitask Learning for ABSA
+  * Cross-Lingual Transfer for ABSA
+* NLP reading group at TrustYou
 
 ### Communication Skills
 * Russian (native)
