@@ -86,7 +86,7 @@ approach. *Presented at the "ConCort" conference on Digital Humanities in 2016*
 * CI/CD
 * Databases
 
-*linux - bash - git - PostgreSQL - AWS - Grafana - pandas - numpy - matplotlib - scikit-learn - tensorflow - pytorch - pyspark - SparkNLP*
+*linux - bash - git - PostgreSQL - AWS - Grafana - pandas - numpy - matplotlib - scikit-learn - tensorflow - pytorch - pyspark*
 
 ### NLP Expertise & Tools
 In different times, I worked with:
@@ -100,9 +100,10 @@ In different times, I worked with:
 * Information Retrieval
 * Named Entity Recognition
 * Fact Extraction
+
 using transformer-based, statistical and rule-based approaches.
 
-*nltk - spacy - corenlp - huggingface libraries - word2vec - wav2vec2 - Kaldi*
+*nltk - spacy - flair - huggingface libraries - nlpaug - checklist - word2vec - wav2vec2 - Kaldi - SparkNLP*
 
 ## ℹ️ Additional Information
 
