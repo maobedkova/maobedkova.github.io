@@ -68,6 +68,10 @@ NLP Engineer with expertise in ML and DL and experience working in the industry 
 * **HuggingFace Robust Speech Challenge**: Developed a Speech Recognition model for Russian and open-sourced it on the [HuggingFace hub](https://huggingface.co/models?other=robust-speech-event). *Took part in Feb 2022*
 * **NL-Augmenter**: Added a sentiment filter to the [NL-Augmenter project](https://github.com/GEM-benchmark/NL-Augmenter) that helps with augmentation for sentiment analysis tasks. *Took part in Sep 2021*
 
+### Hackathons
+* [Junction 2019](https://github.com/Shakurova/SunCatcher)
+* [Junction 2018](https://github.com/Shakurova/Sustage)
+
 ### University Projects *(2015-2019)*
 * **Pronunciation Generation for ASR**: Developed a pronunciation generation method for ASR based on AWEs. *MA thesis in 2019*
 * **Unsupervised Machine Translation**: Investigated Cross-Lingual Word Embeddings for Unsupervised Neural Machine Translation for a rus-eng pair. *Course project in 2018*
@@ -113,14 +117,10 @@ using transformer-based, statistical and rule-based approaches.
   * [Data Augmentation for ABSA](https://medium.com/trustyou-engineering/data-augmentation-for-absa-bb61540673e3)
   * [Topic Modelling with PySPark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e)
   * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519)
-* Participating in hackathons
-  * [Junction 2018](https://github.com/Shakurova/Sustage)
-  * [Junction 2019](https://github.com/Shakurova/SunCatcher)
-  * TrustYou internal data hackathon 2020
 * Thesis students supervision at TrustYou
   * Multitask Learning for ABSA
   * Cross-Lingual Transfer for ABSA
-* NLP reading group at TrustYou
+* NLP reading group and internal data hackathons at TrustYou
 
 ### Communication Skills
 * Russian (native)
