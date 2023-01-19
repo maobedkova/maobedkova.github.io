@@ -116,7 +116,7 @@ using transformer-based, statistical and rule-based approaches.
 * Participating in hackathons
   * [Junction 2018](https://github.com/Shakurova/Sustage)
   * [Junction 2019](https://github.com/Shakurova/SunCatcher)
-  * TY internal data hackathon 2020
+  * TrustYou internal data hackathon 2020
 * Thesis students supervision at TrustYou
   * Multitask Learning for ABSA
   * Cross-Lingual Transfer for ABSA
