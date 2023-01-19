@@ -113,6 +113,10 @@ using transformer-based, statistical and rule-based approaches.
   * [Data Augmentation for ABSA](https://medium.com/trustyou-engineering/data-augmentation-for-absa-bb61540673e3)
   * [Topic Modelling with PySPark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e)
   * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519)
+* Participating in hackathons
+  * [Junction 2018](https://github.com/Shakurova/Sustage)
+  * [Junction 2019](https://github.com/Shakurova/SunCatcher)
+  * TY internal data hackathon 2020
 * Thesis students supervision at TrustYou
   * Multitask Learning for ABSA
   * Cross-Lingual Transfer for ABSA
