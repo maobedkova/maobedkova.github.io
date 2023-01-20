@@ -2,6 +2,13 @@
 
 NLP Engineer with expertise in ML and DL and experience working in the industry applying NLP methods to real-world problems.
 
+## 🔗 Important Links
+* [LinkedIn](https://www.linkedin.com/in/mobedkova/)
+* [Medium](https://medium.com/@maobedkova)
+* [Twitter](https://mobile.twitter.com/maobedkova)
+* [GitHub](https://github.com/maobedkova)
+* [HuggingFace Hub](https://huggingface.co/mobedkova)
+
 ## 👔 Experience
 
 ### Senior NLP Engineer at **[TrustYou](https://www.trustyou.com/)** *(Sep 2022 - present | remote and Munich, Germany)*
