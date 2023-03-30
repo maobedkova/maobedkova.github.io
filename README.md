@@ -119,8 +119,8 @@ using transformer-based, statistical and rule-based approaches.
 ## ℹ️ Additional Information
 
 ### Professional Activities
-* NLP and ML-related talks and presentations
-  * [ChatGPT Explained to Non-Tech People](http://youtu.be/L9i0_cH-6b0) 
+* NLP and ML-related [talks](https://youtube.com/@mobedkova), [presentations](https://drive.google.com/drive/folders/1noejo54yfEEbkBFDNP3N51kgnbmvUJMl), and [resources](https://mobedkova.notion.site/3eaea83f0e5f42ca8423c7c64aeec6a4?v=4b91cc6c0bd94fb88c06f06fe8f5ef6c)
+  * [ChatGPT Explained to Non-Tech People](http://youtu.be/L9i0_cH-6b0)
 * [NLP and ASR-related blogging on Medium](https://medium.com/@maobedkova)
   * [Cross-Lingual Transfer for ABSA](https://medium.com/trustyou-engineering/cross-lingual-transfer-for-absa-6e9ae08a428a)
   * [Data Augmentation for ABSA](https://medium.com/trustyou-engineering/data-augmentation-for-absa-bb61540673e3)
