@@ -15,6 +15,8 @@ human-computer interaction.
 * [GitHub](https://github.com/maobedkova)
 * [HuggingFace Hub](https://huggingface.co/mobedkova)
 
+---
+
 ## 👔 Experience
 
 ### Senior NLP Engineer at **[TrustYou](https://www.trustyou.com/)**
@@ -124,18 +126,31 @@ approach. *Presented at the "ConCort" conference on Digital Humanities in 2016*
 
 ### Technical Skills
 * Programming & Development
+  
   *Python - Jupyter Notebook - Git - Docker - bash*
+  
 * Machine Learning & Deep Learning
+  
   *RNN - CNN - PyTorch - TensorFlow - Scikit-learn - XGBoost - ONNX*
+  
 * Natural Language Processing
+  
   *BERT - GPT - Word2Vec - FastText - GloVe - TF-IDF - SpaCy - NLTK - Hugging Face Transformers - StanfordNLP - SparkNLP - NLPAug*
+  
 * Large Language Models & Fine-Tuning
+  
   *OpenAI API - Hugging Face Transformers - LangChain - LoRA - PEFT - DeepSpeed*
+  
 * Data Processing, Feature Engineering & Data Analysis
+  
   *Pandas - NumPy - Matplotlib - PySpark*
+  
 * Databases & Information Retrieval
+  
   *PostgreSQL - MySQL - MongoDB - FAISS - Weaviate - ChromaDB - Elasticsearch*
+  
 * MLOps, Cloud Computing & CI/CD
+
   *AWS - Azure AI - MLflow - Jenkins - Grafana*
 
 ### NLP Skills
