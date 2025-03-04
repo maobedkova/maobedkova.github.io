@@ -126,32 +126,19 @@ approach. *Presented at the "ConCort" conference on Digital Humanities in 2016*
 
 ### Technical Skills
 * Programming & Development
-  
-  *Python - Jupyter Notebook - Git - Docker - bash*
-  
+  * *Python - Jupyter Notebook - Git - Docker - bash*
 * Machine Learning & Deep Learning
-  
-  *RNN - CNN - PyTorch - TensorFlow - Scikit-learn - XGBoost - ONNX*
-  
+  * *RNN - CNN - PyTorch - TensorFlow - Scikit-learn - XGBoost - ONNX*
 * Natural Language Processing
-  
-  *BERT - GPT - Word2Vec - FastText - GloVe - TF-IDF - SpaCy - NLTK - Hugging Face Transformers - StanfordNLP - SparkNLP - NLPAug*
-  
+  * *BERT - GPT - Word2Vec - FastText - GloVe - TF-IDF - SpaCy - NLTK - Hugging Face Transformers - StanfordNLP - SparkNLP - NLPAug*
 * Large Language Models & Fine-Tuning
-  
-  *OpenAI API - Hugging Face Transformers - LangChain - LoRA - PEFT - DeepSpeed*
-  
+  * *OpenAI API - Hugging Face Transformers - LangChain - LoRA - PEFT - DeepSpeed*
 * Data Processing, Feature Engineering & Data Analysis
-  
-  *Pandas - NumPy - Matplotlib - PySpark*
-  
+  * *Pandas - NumPy - Matplotlib - PySpark*
 * Databases & Information Retrieval
-  
-  *PostgreSQL - MySQL - MongoDB - FAISS - Weaviate - ChromaDB - Elasticsearch*
-  
+  * *PostgreSQL - MySQL - MongoDB - FAISS - Weaviate - ChromaDB - Elasticsearch*
 * MLOps, Cloud Computing & CI/CD
-
-  *AWS - Azure AI - MLflow - Jenkins - Grafana*
+  * *AWS - Azure AI - MLflow - Jenkins - Grafana*
 
 ### NLP Skills
 In different times, I worked with:
@@ -198,14 +185,17 @@ using GenAI, transformer-based, statistical and rule-based approaches.
 * NLP and ML-related [talks](https://youtube.com/@mobedkova), [presentations](https://drive.google.com/drive/folders/1noejo54yfEEbkBFDNP3N51kgnbmvUJMl), and [resources](https://mobedkova.notion.site/3eaea83f0e5f42ca8423c7c64aeec6a4?v=4b91cc6c0bd94fb88c06f06fe8f5ef6c)
   * [ChatGPT Explained to Non-Tech People](http://youtu.be/L9i0_cH-6b0)
 * [NLP and ASR-related blogging on Medium](https://medium.com/@maobedkova)
+  * [How I Stay Up-to-Date with AI and NLP](https://medium.com/@maobedkova/how-i-stay-up-to-date-with-ai-and-nlp-656de9e284d9)
+  * [Lessons Learned from Working as an NLP Engineer](https://medium.com/@maobedkova/lessons-learned-from-working-as-an-nlp-engineer-60d6ff0c77f)
   * [Cross-Lingual Transfer for ABSA](https://medium.com/trustyou-engineering/cross-lingual-transfer-for-absa-6e9ae08a428a)
   * [Data Augmentation for ABSA](https://medium.com/trustyou-engineering/data-augmentation-for-absa-bb61540673e3)
   * [Topic Modelling with PySPark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e)
   * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519)
-* Thesis students supervision at TrustYou
+* Former Women Techmaker Ambassador
+* Supervised student theses at TrustYou
   * Multitask Learning for ABSA
   * Cross-Lingual Transfer for ABSA
-* NLP reading group and internal data hackathons at TrustYou
+* Facilitated the NLP reading group and internal data hackathons at TrustYou
 
 ### Communication Skills
 * Russian (native)
@@ -215,4 +205,4 @@ using GenAI, transformer-based, statistical and rule-based approaches.
 * Spanish (A1)
 
 ### Other Interests
-Neuroscience - Language theory - Travelling - Sketching - Roller skating - Yoga - Tennis - Writing - Language learning
+Language theory - Travelling - Neuroscience - Drawing - Roller and Ice Skating - Yoga - Tennis and Badminton - Writing
