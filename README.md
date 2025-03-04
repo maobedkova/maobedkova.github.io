@@ -73,6 +73,8 @@ human-computer interaction.
 
 * Developed the advanced tokenizer for Russian corpora in the [Geekrya project](http://www.webcorpora.ru/)
 
+---
+
 ## 🎓 Education
 
 ### MA Computational Linguistics | 2017 – 2019
@@ -87,6 +89,8 @@ human-computer interaction.
 
   * Increased State Academic Scholarship for Academic Achievements by NRU HSE
   * Student Research Paper Competition by NRU HSE - laureate certificate
+ 
+---
 
 ## 📚 Projects
 
@@ -114,20 +118,30 @@ approach. *Presented at the "ConCort" conference on Digital Humanities in 2016*
 * **Database of Comparative Constructions**: Developed the database of constructions 'Verb like Noun' and studied some semantic patterns using this database within a research group. *Developed in 2016*
 * **Automatic Authorship Attribution**: Investigated different approaches of authorship determination and their statistical evaluation. *Presented at the "Digital Humanities" conference in Tartu in 2015*
 
+---
+
 ## 💻 Skills
 
-### General Expertise & Tools
-* Python Programming
-* Data Analysis
-* Machine Learning
-* Deep Learning
-* CI/CD
-* Databases
+### Technical Skills
+* Programming & Development
+  *Python - Jupyter Notebook - Git - Docker - bash*
+* Machine Learning & Deep Learning
+  *RNN - CNN - PyTorch - TensorFlow - Scikit-learn - XGBoost - ONNX*
+* Natural Language Processing
+  *BERT - GPT - Word2Vec - FastText - GloVe - TF-IDF - SpaCy - NLTK - Hugging Face Transformers - StanfordNLP - SparkNLP - NLPAug*
+* Large Language Models & Fine-Tuning
+  *OpenAI API - Hugging Face Transformers - LangChain - LoRA - PEFT - DeepSpeed*
+* Data Processing, Feature Engineering & Data Analysis
+  *Pandas - NumPy - Matplotlib - PySpark*
+* Databases & Information Retrieval
+  *PostgreSQL - MySQL - MongoDB - FAISS - Weaviate - ChromaDB - Elasticsearch*
+* MLOps, Cloud Computing & CI/CD
+  *AWS - Azure AI - MLflow - Jenkins - Grafana*
 
-*linux - bash - git - PostgreSQL - AWS - Grafana - pandas - numpy - matplotlib - scikit-learn - tensorflow - pytorch - pyspark*
-
-### NLP Expertise & Tools
+### NLP Skills
 In different times, I worked with:
+* Text Generation
+* Summarisation
 * Sentiment Analysis
 * Statistical and Neural Machine Translation
 * Automated Speech Recognition
@@ -139,9 +153,29 @@ In different times, I worked with:
 * Named Entity Recognition
 * Fact Extraction
 
-using transformer-based, statistical and rule-based approaches.
+using GenAI, transformer-based, statistical and rule-based approaches.
 
-*nltk - spacy - flair - huggingface libraries - nlpaug - checklist - word2vec - wav2vec2 - Kaldi - SparkNLP*
+### Soft Skills
+* Communication & Collaboration
+  * Technical Writing
+  * Presentation Skills
+  * Team Work
+  * Mentoring
+* Leadership & Task Management
+  * Problem Solving
+  * Critical Thinking
+  * Analytical Skills
+  * Innovation
+  * Project Planning
+  * Decision Making
+  * Accountability
+ * Research & Development
+   * Experimentation
+   * Continuous Learning
+   * Hypothesis Testing
+   * Evaluation
+
+---
 
 ## ℹ️ Additional Information
 
