@@ -75,18 +75,21 @@ human-computer interaction.
 
 ## 🎓 Education
 
-### MA Computational Linguistics *(2017 – 2019)*
+### MA Computational Linguistics 
+
+**2017 – 2019**
 
 [Erasmus Mundus Joint Degree](https://lct-master.org/) with Erasmus Mundus Scholarship Award:
 * **Charles University - CUNI** *(Prague, Czech Republic)*
 * **University of Basque Country - UPV/EHU** *(San Sebastian, Spain)*
 
-### BA Fundamental and Applied Linguistics *(2013 – 2017)*
+### BA Fundamental and Applied Linguistics
+
+**2013 – 2017**
 
 * **National Research University Higher School of Economics - NRU HSE** *(Moscow, Russia)*
-
-  * Increased State Academic Scholarship for Academic Achievements by NRU HSE *(2016, 2017)*
-  * Student Research Paper Competition by NRU HSE - laureate certificate *(2016)*
+  * Increased State Academic Scholarship for Academic Achievements by NRU HSE
+  * Student Research Paper Competition by NRU HSE - laureate certificate
 
 ## 📚 Projects
 
