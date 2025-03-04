@@ -90,20 +90,28 @@ human-computer interaction.
 
 ## 📚 Projects
 
-### Open-Source Projects *(2021-2022)*
-* **HuggingFace Robust Speech Challenge**: Developed a Speech Recognition model for Russian and open-sourced it on the [HuggingFace hub](https://huggingface.co/models?other=robust-speech-event). *Took part in Feb 2022*
-* **NL-Augmenter**: Added a sentiment filter to the [NL-Augmenter project](https://github.com/GEM-benchmark/NL-Augmenter) that helps with augmentation for sentiment analysis tasks. *Took part in Sep 2021*
+### Work Projects
+* **[TrustYou Semantic Analysis](https://www.trustyou.com/products/customer_experience_platform/)**: Developed a system that performs multilingual Aspect-Based Sentiment Analysis for more than 20 languages using Transformer architecture.
+* **[TrustYou ResponseAI](https://www.trustyou.com/products/customer_experience_platform/)**: Developed an automated review response system using LLMs and RAG.
+* **[TrustYou SummaryAI](https://www.trustyou.com/products/customer_experience_platform/)**: Developed a review summarisation and key insights extraction system using LLMs and optimized it for a large number of reviews.
+* **[TrustYou Impact Score](https://www.trustyou.com/products/customer_experience_platform/)**: Developed an ML system for detecting impactful factors for hospitality businesses.
+
+### Open-Source Projects
+* **HuggingFace Robust Speech Challenge**: Developed a speech recognition model for Russian and open-sourced it on the [HuggingFace hub](https://huggingface.co/models?other=robust-speech-event). *Took part in Feb 2022*
+* **NL-Augmenter**: Contributed with a sentiment filter to the [NL-Augmenter project](https://github.com/GEM-benchmark/NL-Augmenter) that helps with augmentation for sentiment analysis tasks. *Took part in Sep 2021*
 
 ### Hackathons
-* [Junction 2019](https://github.com/Shakurova/SunCatcher)
-* [Junction 2018](https://github.com/Shakurova/Sustage)
+* [Junction 2019](https://github.com/Shakurova/SunCatcher): The project aimed at encouraging sustainability for retail. Done in collaboration with K Group
+* [Junction 2018](https://github.com/Shakurova/Sustage): The project aimed at preventing the SAD condition due to lack of vitamin D for people living in northern countries
 
-### University Projects *(2015-2019)*
+### University Projects
 * **Pronunciation Generation for ASR**: Developed a pronunciation generation method for ASR based on AWEs. *MA thesis in 2019*
 * **Unsupervised Machine Translation**: Investigated Cross-Lingual Word Embeddings for Unsupervised Neural Machine Translation for a rus-eng pair. *Course project in 2018*
 * **Russian Sketches**: Developed the collocation extraction method on the basis of syntactical structure for Russian. *BA thesis in 2017*
 * **Amharic Corpus**: Developed the [Amharic corpus](http://www.web-corpora.net/AmharicCorpus/search/) with Part-of-Speech Tagging using a Machine Learning
 approach. *Presented at the "ConCort" conference on Digital Humanities in 2016*
+* **Tokenizer and Splitter for Russian Web Texts**: Developed the advanced tokenizer and splitter for Geekrya corpora. *Developed in 2016*
+* **Database of Comparative Constructions**: Developed the database of constructions 'Verb like Noun' and studied some semantic patterns using this database within a research group. *Developed in 2016*
 * **Automatic Authorship Attribution**: Investigated different approaches of authorship determination and their statistical evaluation. *Presented at the "Digital Humanities" conference in Tartu in 2015*
 
 ## 💻 Skills
