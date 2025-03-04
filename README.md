@@ -19,7 +19,7 @@ human-computer interaction.
 
 ### Senior NLP Engineer at **[TrustYou](https://www.trustyou.com/)**
 
-**(Sep 2022 - present | remote and Munich, Germany)**
+**Sep 2022 - present \| remote and Munich, Germany**
 
 *ML - LLMs - ABSA - GenAI - CI/CD - MLOps - RAG - BERT - GPT - Python - PyTorch - HuggingFace Transformers - LangChain - MLFlow*
 
@@ -29,7 +29,7 @@ human-computer interaction.
 
 ### NLP Engineer at **[TrustYou](https://www.trustyou.com/)** 
 
-**(Apr 2020 - Aug 2022 | remote and Munich, Germany)**
+**Apr 2020 - Aug 2022 \| remote and Munich, Germany**
 
 *ML - LLMs - ABSA - CI/CD - BERT - GPT - Python - PyTorch - HuggingFace Transformers - MLFlow - CFG*
 
@@ -39,7 +39,7 @@ human-computer interaction.
 
 ### ASR Research Intern at **[Sony's European Technology Center](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/)** 
 
-**(Feb 2019 - Jul 2019 | Stuttgart, Germany)**
+**Feb 2019 - Jul 2019 \| Stuttgart, Germany**
 
 *ASR - AWE - DL - Python - TensorFlow - Java - Kaldi*
 
@@ -49,7 +49,7 @@ human-computer interaction.
 
 ### NLP Engineer at **Fact Read** 
 
-**(Oct 2016 - Dec 2018 | remote)**
+**Oct 2016 - Dec 2018 \| remote**
 
 *Fact Extraction - Coreference Resolution - WSD - ML - Python - scikit-learn*
 
@@ -59,7 +59,7 @@ human-computer interaction.
 
 ### Computational Linguist at **[ABBYY](https://www.abbyy.com/)** 
 
-**(Jan 2017 - Sep 2017 | Moscow, Russia)**
+**Jan 2017 - Sep 2017 \| Moscow, Russia**
 
 *NER - Unit Testing - Ontologies - Knowledge Graphs*
 * Developed various solutions for Fact Extraction using ABBYY tools
@@ -67,7 +67,7 @@ human-computer interaction.
 
 ### Computational Linguistics Intern at **[ABBYY Labs](https://www.abbyy.com/flexicapture-sdk/)** 
 
-**(Jan 2016 - Jun 2016 | Moscow, Russia)**
+**Jan 2016 - Jun 2016 \| Moscow, Russia**
 
 *Syntax - Tokenisation & Splitting - Python - Perl - regexp*
 
