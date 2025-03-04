@@ -1,9 +1,15 @@
 # Maria Obedkova | NLP Engineer 👩‍💻
 
-NLP Engineer with expertise in ML and DL and experience working in the industry applying NLP methods to real-world problems.
+NLP/AI Engineer with 5+ years of industry experience with
+Machine Learning and Large Language Models, backed by
+a strong linguistics background. Skilled in developing
+diverse NLP and AI applications, with a passion for
+advancing AI, building impactful products, and enhancing
+human-computer interaction.
 
 ## 🔗 Important Links
 * [LinkedIn](https://www.linkedin.com/in/mobedkova/)
+* [Portfolio](https://maobedkova.github.io/portfolio/)
 * [Medium](https://medium.com/@maobedkova)
 * [Twitter](https://mobile.twitter.com/maobedkova)
 * [GitHub](https://github.com/maobedkova)
@@ -11,48 +17,61 @@ NLP Engineer with expertise in ML and DL and experience working in the industry 
 
 ## 👔 Experience
 
-### Senior NLP Engineer at **[TrustYou](https://www.trustyou.com/)** *(Sep 2022 - present | remote and Munich, Germany)*
+### Senior NLP Engineer at **[TrustYou](https://www.trustyou.com/)**
 
-*Opinion Mining - ABSA - transformers - pytorch - API - CFG - CI/CD - MLOps - ML system design*
+**(Sep 2022 - present | remote and Munich, Germany)**
 
-* Improving a Transformer-based solution for ABSA and scaling it up
-* Exploring approaches for multilingual ABSA
+*ML - LLMs - ABSA - GenAI - CI/CD - MLOps - RAG - BERT - GPT - Python - PyTorch - HuggingFace Transformers - LangChain - MLFlow*
+
+* Working on GenAI solutions and their improvement lifecycle
+* Improving a Transformer-based solution for ABSA, scaling it up for multiple languages and bigger review load
 * Defining system designs for ML and DL applications
 
-### NLP Engineer at **[TrustYou](https://www.trustyou.com/)** *(Apr 2020 - Aug 2022 | remote and Munich, Germany)*
+### NLP Engineer at **[TrustYou](https://www.trustyou.com/)** 
 
-*Opinion Mining - ABSA - transformers - pytorch - API - CFG - CI/CD*
+**(Apr 2020 - Aug 2022 | remote and Munich, Germany)**
+
+*ML - LLMs - ABSA - CI/CD - BERT - GPT - Python - PyTorch - HuggingFace Transformers - MLFlow - CFG*
 
 * Developed a Transformer-based solution for ABSA and put it in production
-* Researed different approaches to ABSA and performed various Data Analysis tasks
-* Supported and maintained the legacy system that performs Sentiment Analysis with the help of CFG
+* Researched approaches to ABSA and performed data analyses
+* Supported and maintained the legacy system that performed sentiment analysis using CFG
 
-### ASR Research Intern at **[Sony's European Technology Center](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/)** *(Feb 2019 - Jul 2019 | Stuttgart, Germany)*
+### ASR Research Intern at **[Sony's European Technology Center](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/)** 
 
-*ASR - AWE - DL - Python - tensorflow - Java - Kaldi*
+**(Feb 2019 - Jul 2019 | Stuttgart, Germany)**
 
-* Researched different Deep Learning approaches of pronunciation generation for Speech Recognition
+*ASR - AWE - DL - Python - TensorFlow - Java - Kaldi*
+
+* Researched different deep learning approaches to pronunciation generation for speech recognition
 * Investigated Acoustic Word Embeddings and improved their quality for a pronunciation discrimination task
 * Developed a completely new data-driven method of pronunciation generation for ASR purposes
 
-### NLP Engineer at **Fact Read** *(Oct 2016 - Dec 2018 | remote)* 
+### NLP Engineer at **Fact Read** 
+
+**(Oct 2016 - Dec 2018 | remote)**
 
 *Fact Extraction - Coreference Resolution - WSD - ML - Python - scikit-learn*
 
 * Implemented the morphological-syntactical pipeline and improved its quality
-* Developed the anaphora resolution module for news texts using a Machine Learning approach
+* Developed the anaphora resolution module for news texts using a machine learning approach
 * Supervised linguists and coordinated the interaction of linguists and programmers in a team
 
-### Computational Linguist at **[ABBYY](https://www.abbyy.com/)** *(Jan 2017 - Sep 2017 | Moscow, Russia)*
+### Computational Linguist at **[ABBYY](https://www.abbyy.com/)** 
+
+**(Jan 2017 - Sep 2017 | Moscow, Russia)**
 
 *NER - Unit Testing - Ontologies - Knowledge Graphs*
 * Developed various solutions for Fact Extraction using ABBYY tools
 * Implemented unit testing for the Fact Extraction system
 
-### Computational Linguistics Intern at **[ABBYY Labs](https://www.abbyy.com/flexicapture-sdk/)** *(Jan 2016 - Jun 2016 | Moscow, Russia)*
+### Computational Linguistics Intern at **[ABBYY Labs](https://www.abbyy.com/flexicapture-sdk/)** 
+
+**(Jan 2016 - Jun 2016 | Moscow, Russia)**
 
 *Syntax - Tokenisation & Splitting - Python - Perl - regexp*
-* Developed an advanced tokenizer for Russian corpora in the [Geekrya project](http://www.webcorpora.ru/)
+
+* Developed the advanced tokenizer for Russian corpora in the [Geekrya project](http://www.webcorpora.ru/)
 
 ## 🎓 Education
 
